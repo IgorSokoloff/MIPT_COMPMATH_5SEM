@@ -1,3 +1,3 @@
-# MIPT_COMPMATH_5SEM
+# computational_mathematics_mipt
 
-ДЗ по вычматам
+Here I store course Computational mathematics course homeworks which I did on the 5th and 6th term at MIPT.
